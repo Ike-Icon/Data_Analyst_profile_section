@@ -9,6 +9,9 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-asiedu-98522a211/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+
+  <a href="https://www.linkedin.com/in/isaac-asiedu-98522a211/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+
   <a href="mailto:asieduisaac5775@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email Isaac">
 </a>
@@ -47,9 +50,12 @@ When I'm not working with data, I enjoy working out, playing video games, readin
 - Improving SQL query optimization and data modeling
 - Exploring data analytics best practices for real-world business problems
 
-## 🛠️ Technical Skillset
+## 🎯 Career Goal
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+I am actively seeking remote Data Analyst opportunities where I can contribute to data-driven decision-making and deliver real business value through analytical thinking and clean, insightful reporting.
+
+## 📌 Live Portfolio
+🌐 [ike-icon.github.io/data_analyst_portfolio](https://ike-icon.github.io/data_analyst_portfolio/)
 
 #### Data Analysis & Visualization
 <p>
