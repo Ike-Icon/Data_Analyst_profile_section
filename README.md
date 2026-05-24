@@ -29,10 +29,16 @@ When I'm not working with data, I enjoy working out, playing video games, readin
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://ike-icon.github.io/data_analyst_portfolio/)
       
-## 🔭 What I'm Currently Working On  
+## 🔭 Projects  
 
-- **Sales Performance Dashboard (Power BI):** Building an interactive dashboard to track revenue trends and product performance  
-- **Customer Data Analysis (Python + SQL):** Analyzing customer behavior and uncovering patterns for better decision-making
+- **RFM Customer Segmentation Analysis (SQL + Power BI):** Segmenting customers based on purchasing behavior to drive smarter business decisions.
+  - Performed RFM (Recency, Frequency, Monetary) analysis on customer transaction data
+  - Built using SQL in Google BigQuery, leveraging window functions and aggregations
+  - Delivered actionable customer segments through an interactive Power BI dashboard
+- **Credit Card Fraud Detection (SQL + Power BI):** Detecting fraudulent transactions through pattern analysis and interactive visualization.
+  - Explored credit card transaction data to detect fraudulent behavior
+  - Analyzed patterns in transaction amount, time, and risk indicators
+  - Used BigQuery for data transformation and Power BI for an interactive fraud analysis dashboard
 - **Data Cleaning Automation (Python):** Creating reusable scripts to clean and prepare datasets efficiently
 
 ## 🌱 Currently Learning 
