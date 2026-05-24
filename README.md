@@ -9,10 +9,14 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-asiedu-98522a211/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+<<<<<<< HEAD
 
   <a href="https://www.linkedin.com/in/isaac-asiedu-98522a211/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 
   <a href="mailto:asieduisaac5775@gmail.com" target="_blank" rel="noopener noreferrer">
+=======
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asieduisaac5775@gmail.com" target="_blank" rel="noopener noreferrer">
+>>>>>>> 1aef79c438beb62c23c345de412e19da6c14da15
   <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email Isaac">
 </a>
 </p>
@@ -30,7 +34,7 @@ With a background in Applied Technology and software development, I bring a prob
 When I'm not working with data, I enjoy working out, playing video games, reading, and exploring new tech skills. I’m especially driven by that “aha!” moment when data reveals something powerful and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://ike-icon.github.io/data_analyst_portfolio/)
+### <a href="https://ike-icon.github.io/data_analyst_portfolio/" target="_blank" >🏆 Check Out My Full Portfolio Website</a>
       
 ## 🔭 Projects  
 
